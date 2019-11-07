@@ -1,2 +1,2 @@
 # zztop
-Linux command
+A Linux command
